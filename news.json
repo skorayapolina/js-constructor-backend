@@ -1,0 +1,48 @@
+[
+  {
+    "type": "title",
+    "value": "The New York Times",
+    "options": {
+      "tag": "h1",
+      "styles": "text-align: center; padding: 1rem; border-bottom: 2px solid black; border-top: 2px solid black"
+    }
+  },
+  {
+    "type": "title",
+    "value": "About The New York Times",
+    "options": {
+      "tag": "h2",
+      "styles": "padding: 1rem 0;"
+    }
+  },
+  {
+    "type": "textColumns",
+    "value": [
+      "The New York Times (NYT or NY Times) is an American daily newspaper based in New York City with a worldwide influence and readership.[6][7] Nicknamed \"the Gray Lady\",[8] the Times has long been regarded within the industry as a national \"newspaper of record\".[9] Founded in 1851, the paper has since won 130 Pulitzer Prizes, more than any other.[10] It is ranked 18th in the world by circulation and 3rd in the U.S.[11]",
+      "The paper is owned by The New York Times Company, which is publicly traded. It has been governed by the Sulzberger family since 1896, through a dual-class share structure after its shares became publicly-traded.[12] A. G. Sulzberger and his father, Arthur Ochs Sulzberger Jr.—the paper's publisher and the company's chairman, respectively—are the fourth and fifth generation of the family to head the paper.[13]",
+      "Since the mid-1970s, The New York Times has greatly expanded its layout and organization, adding special weekly sections on various topics supplementing the regular news, editorials, sports, and features. Since 2008,[14] the Times has been organized into the following sections: News, Editorials/Opinions-Columns/Op-Ed, New York (metropolitan), Business, Sports, Arts, Science, Styles, Home, Travel, and other features.[15]"
+    ],
+    "options": {
+      "styles": "margin-bottom: 40px"
+    }
+  },
+  {
+    "type": "title",
+    "value": "About New York City",
+    "options": {
+      "tag": "h2",
+      "styles": "padding: 1rem 0;"
+    }
+  },
+  {
+    "type": "textColumns",
+    "value": [
+      "New York City (NYC), often called simply New York, is the most populous city in the United States. With an estimated 2019 population of 8,336,817 distributed over about 302.6 square miles (784 km2), New York City is also the most densely populated major city in the United States.[11] Located at the southern tip of the U.S. state of New York, the city is the center of the New York metropolitan area, the largest metropolitan area in the world by urban landmass.[12] With almost 20 million people in its metropolitan statistical area and approximately 23 million in its combined statistical area, it is one of the world's most populous megacities. New York City has been described as the cultural, financial, and media capital of the world, significantly influencing commerce,[13] entertainment, research, technology, education, politics, tourism, art, fashion, and sports. Home to the headquarters of the United Nations,[14] New York is an important center for international diplomacy.[15][16]",
+      "Situated on one of the world's largest natural harbors, New York City is composed of five boroughs, each of which is a county of the State of New York. The five boroughs—Brooklyn, Queens, Manhattan, the Bronx, and Staten Island—were consolidated into a single city in 1898.[17] The city and its metropolitan area constitute the premier gateway for legal immigration to the United States. As many as 800 languages are spoken in New York,[18] making it the most linguistically diverse city in the world. New York is home to more than 3.2 million residents born outside the United States,[19] the largest foreign-born population of any city in the world as of 2016.[20][21] As of 2019, the New York metropolitan area is estimated to produce a gross metropolitan product (GMP) of $2.0 trillion. If the New York metropolitan area were a sovereign state, it would have the eighth-largest economy in the world. New York is home to the highest number of billionaires of any city in the world.[22]",
+      "New York City traces its origins to a trading post founded by colonists from the Dutch Republic in 1624 on Lower Manhattan; the post was named New Amsterdam in 1626.[23] The city and its surroundings came under English control in 1664 and were renamed New York after King Charles II of England granted the lands to his brother, the Duke of York.[23][24] The city was regained by the Dutch in July 1673 and was subsequently renamed New Orange for one year and three months; the city has been continuously named New York since November 1674.[25][26] New York City was the capital of the United States from 1785 until 1790,[27] and has been the largest U.S. city since 1790.[28] The Statue of Liberty greeted millions of immigrants as they came to the U.S. by ship in the late 19th and early 20th centuries,[29] and is a symbol of the U.S. and its ideals of liberty and peace.[30] In the 21st century, New York has emerged as a global node of creativity, entrepreneurship,[31] and environmental sustainability."
+    ],
+    "options": {
+      "styles": "margin-bottom: 40px"
+    }
+  }
+]
